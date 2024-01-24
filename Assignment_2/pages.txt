@@ -1,0 +1,10 @@
+URL01, init_importance: 0.3 text containing some URL03 URL02 URL10
+URL02, init_importance: 0.2 text containing some URL07 URL09
+URL03, init_importance: 0.5 text containing some URL03 URL07
+URL04, init_importance: 0.7 text containing some URL04
+URL05, init_importance: 0.6 text containing some URL09
+URL06, init_importance: 0.8 text containing some URL05
+URL07, init_importance: 0.3 text containing some URL05
+URL08, init_importance: 0.9 text containing some URL06
+URL09, init_importance: 0.1 text containing some URL09
+URL10, init_importance: 0.3 text containing some URL01

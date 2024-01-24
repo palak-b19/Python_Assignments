@@ -1,0 +1,2 @@
+Name:alicia,Address:b1232,Phone:1234567891,Email:id1@g.com
+Name:Palak,Address:b232 vikaaspuri,Phone:1234345456,Email:pb@rediff.com
